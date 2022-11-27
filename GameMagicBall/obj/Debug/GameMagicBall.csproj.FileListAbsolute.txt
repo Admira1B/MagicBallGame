@@ -1,0 +1,78 @@
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.exe.config
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.exe
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.pdb
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.AssemblyReference.cache
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\MainWindow.g.cs
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\App.g.cs
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.cache
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.lref
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\MainWindow.baml
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.g.resources
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.Properties.Resources.resources
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.GenerateResource.cache
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.CoreCompileInputs.cache
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.exe
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.pdb
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameWindow.g.cs
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\GameWindow.baml
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\AnswerWindow.g.cs
+C:\Users\vreiz\source\repos\GameMagicBall\GameMagicBall\obj\Debug\AnswerWindow.baml
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.exe.config
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.exe
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\bin\Debug\GameMagicBall.pdb
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.AssemblyReference.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameWindow.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\MainWindow.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\App.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.lref
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameWindow.baml
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\MainWindow.baml
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.g.resources
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.Properties.Resources.resources
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.GenerateResource.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.csproj.CoreCompileInputs.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.exe
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBall\GameMagicBall\obj\Debug\GameMagicBall.pdb
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.exe.config
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.exe
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.pdb
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.AssemblyReference.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameWindow.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\MainWindow.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\App.g.cs
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.lref
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameWindow.baml
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\MainWindow.baml
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.g.resources
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.Properties.Resources.resources
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.GenerateResource.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.CoreCompileInputs.cache
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.exe
+C:\Users\vreiz\OneDrive\Рабочий стол\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.pdb
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.exe.config
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.exe
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.pdb
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.AssemblyReference.cache
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameWindow.g.cs
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\MainWindow.g.cs
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\App.g.cs
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.cache
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall_MarkupCompile.lref
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameWindow.baml
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\MainWindow.baml
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.g.resources
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.Properties.Resources.resources
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.GenerateResource.cache
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.csproj.CoreCompileInputs.cache
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.exe
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.pdb
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.exe.manifest
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\bin\Debug\GameMagicBall.application
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.exe.manifest
+C:\Users\vreiz\source\repos\GameMagicBallOneWindow\GameMagicBall\obj\Debug\GameMagicBall.application
