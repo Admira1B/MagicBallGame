@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 using System.Windows;
+using System.Windows.Forms;
 using System.Windows.Input;
 
 
@@ -8,14 +10,13 @@ namespace GameMagicBall
 {
     public partial class GameWindow : Window
     {
-        string nickName;
-        int count = 1;
+        readonly private string _nickName;
 
         public GameWindow(string nickName)
         {
             InitializeComponent();
             WindowStartupLocation = WindowStartupLocation.CenterScreen;
-            this.nickName = nickName;
+            _nickName = nickName;
             MessengeTextBlock.Text = $"Уважаемый {nickName}, задайте вопрос\nМагическому шару:";
         }
 
@@ -57,13 +58,13 @@ namespace GameMagicBall
             }
             else
             {
-                MessageBox.Show("Магический шар вас не понимает! \nВопрос является слишком коротким или в конце отсутствует '?'", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+                System.Windows.MessageBox.Show("Магический шар вас не понимает! \nВопрос является слишком коротким или в конце отсутствует '?'", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
         private void ContinueButton_Click(object sender, RoutedEventArgs e)
         {
-            MessengeTextBlock.Text = $"Уважаемый {nickName}, задайте вопрос\nМагическому шару:";
+            MessengeTextBlock.Text = $"Уважаемый {_nickName}, задайте вопрос\nМагическому шару:";
 
             MagicBall0.Visibility = Visibility.Visible;
             MagicBall1.Visibility = Visibility.Collapsed;
@@ -110,16 +111,16 @@ namespace GameMagicBall
             switch (phraseNum)
             {
                 case 1:
-                    MessengeTextBlock.Text = $"За окном прогремел гром, и {nickName} увидел ответ: {answer}";
+                    MessengeTextBlock.Text = $"За окном прогремел гром, и {_nickName} увидел ответ: {answer}";
                     break;
                 case 2:
-                    MessengeTextBlock.Text = $"{nickName} почувствовал, что земля под ним трясется, и увидел ответ в магическом шаре: {answer}";
+                    MessengeTextBlock.Text = $"{_nickName} почувствовал, что земля под ним трясется, и увидел ответ в магическом шаре: {answer}";
                     break;
                 case 3:
-                    MessengeTextBlock.Text = $"По телу {nickName} пробежала дрожь, он увидел ответ в шаре: {answer}";
+                    MessengeTextBlock.Text = $"По телу {_nickName} пробежала дрожь, он увидел ответ в шаре: {answer}";
                     break;
                 case 4:
-                    MessengeTextBlock.Text = $"Яркая вспышка на секунду ослепила {nickName}, магический шар дал свой ответ: {answer}";
+                    MessengeTextBlock.Text = $"Яркая вспышка на секунду ослепила {_nickName}, магический шар дал свой ответ: {answer}";
                     break;
                 case 5:
                     MessengeTextBlock.Text = $"Магический шар в одно мгновение заискрился и дал ответ: {answer}";
@@ -139,8 +140,8 @@ namespace GameMagicBall
 
             using (StreamWriter sw = new StreamWriter(pathToExportFile, true))
             {
-                sw.WriteLine($"{nickName}   |   {QuestionTextBox.Text}   |   {answer}");
-                StatisticsListView.Items.Add($"{nickName}   |   {QuestionTextBox.Text}   |   {answer}");
+                sw.WriteLine($"{_nickName}   |   {QuestionTextBox.Text}   |   {answer}");
+                StatisticsListView.Items.Add($"{_nickName}   |   {QuestionTextBox.Text}   |   {answer}");
             }
         }
 
@@ -160,6 +161,15 @@ namespace GameMagicBall
             else
             {
                 StatisticsListView.Visibility = Visibility.Collapsed;
+            }
+        }
+
+
+        private void GameWindow_KeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            if (e.Key == Key.F1)
+            {
+                Help.ShowHelp(null, "Lab6_3.chm");
             }
         }
     }

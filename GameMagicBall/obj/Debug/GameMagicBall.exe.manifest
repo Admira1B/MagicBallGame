@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GameMagicBall.exe" size="587184">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GameMagicBall.exe" size="587696">
       <assemblyIdentity name="GameMagicBall" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xobgyGVe6x/JyByyWphf6DdwfC83ubToigqa0PbMmqc=</dsig:DigestValue>
+        <dsig:DigestValue>ddj8m6Eoh7JNjxzKuvkvoM7npUbwCZYCx8uTMPM9FKA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
